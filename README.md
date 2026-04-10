@@ -33,5 +33,5 @@ figure out what to build next.
 
 Always up to talk about open source, scientific Python, ML, or data science careers.
 
-- 🔗 LinkedIn: []
-- 🐦 X: [https://x.com/DeshanGautam]
+
+-  X: [https://x.com/DeshanGautam]
