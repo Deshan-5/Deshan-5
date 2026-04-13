@@ -2,7 +2,7 @@ oh hey! 👋
 
 I'm Deshan, a data science student. On GitHub I mostly write Python,
 work on benchmarks and type stubs, and poke at scientific open source projects.
-Off GitHub I'm thinking about systems at night, reading about ML, RL and trying to
+Off GitHub I'm thinking about systems at night, reading about ML and trying to
 figure out what to build next.
 
 
