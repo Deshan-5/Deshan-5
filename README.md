@@ -24,12 +24,12 @@ figure out what to build next.
 
 </details>
 
-## 📚 things I do for learning
+## things I do for learning
 
 - BS Data Science @ IIT Madras
 - try stuff first, then jump to papers.
 
-## 🎤 talk to me!
+## talk to me!
 
 Always up to talk about open source, scientific Python, ML, or data science careers.
 
